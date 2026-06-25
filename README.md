@@ -103,18 +103,7 @@ index.html
 
 hoặc sử dụng Live Server.
 
-## GitHub Repository
 
-Thêm link repository GitHub của nhóm tại đây:
 
-```
-https://github.com/TEN-NHOM/group-web-project
-```
-
-## Demo Link
-
-Nếu triển khai GitHub Pages:
-
-```
 https://TEN-TAI-KHOAN.github.io/group-web-project
 ```
