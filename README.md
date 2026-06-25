@@ -2,9 +2,9 @@
 
 ## Members
 
-- Trần Trọng Nghĩa (Nhóm trưởng) - Navbar & Hero
+- Trần Trọng Nghĩa (Nhóm trưởng) - Navbar & Hero & tổng duyệt
 - Nguyễn Hải Duy - Update index.html
-- Đoàn Hoàng Hảo - Update courses.html
+- Đoàn Hoàng Hảo - Update index.html
 - Ngô Chí Quyển - Update CSS
 
 ## Project Description
